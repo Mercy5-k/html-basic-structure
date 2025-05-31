@@ -1,0 +1,27 @@
+{
+  "name": "html-basic-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  }
+  ,"scripts": {
+    
+  "test": "mocha"
+}, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mercy5-k/html-basic-structure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mercy5-k/html-basic-structure/issues"
+  },
+  "homepage": "https://github.com/Mercy5-k/html-basic-structure#readme",
+  "description": "",
+  "dependencies": {
+    "mocha": "^11.5.0"
+  }
+}
